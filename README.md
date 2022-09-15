@@ -1,5 +1,5 @@
 👋 Hi, I’m Maha!
-<br />👀 I’m interested in front-end and web development.
+<br />👀 I’m interested in front-end, web development, and product design.
 <br />🌱 I’m currently majoring in computer science and design at Northeastern University.
 <br />📫 sidi.m@northeastern.edu
 
